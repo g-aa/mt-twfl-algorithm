@@ -13,6 +13,7 @@ MATLAB-2018b
 
 ## Материалы
 
+- [Модель длинной линии электропередачи](src/longline/README.md);
 - [презентация](presentation.pdf);
 - [доклад](report.pdf);
 - [пояснительная записка](note.pdf).
